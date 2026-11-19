@@ -1,0 +1,17 @@
+test_conteo_sede_norte (test_caracterizacion.PruebasCaracterizacion.test_conteo_sede_norte) ... ok
+test_conteo_sede_sur (test_caracterizacion.PruebasCaracterizacion.test_conteo_sede_sur) ... ok
+test_ventas_sede_norte (test_caracterizacion.PruebasCaracterizacion.test_ventas_sede_norte) ... ok
+test_ventas_sede_sur (test_caracterizacion.PruebasCaracterizacion.test_ventas_sede_sur) ... ok
+test_precio_especial_distinto_por_sede (test_unidades.PruebasConfiguracionPorSede.test_precio_especial_distinto_por_sede) ... ok
+test_establecer_y_obtener (test_unidades.PruebasEncapsulate.test_establecer_y_obtener) ... ok
+test_guardar_y_cargar (test_unidades.PruebasEncapsulate.test_guardar_y_cargar) ... ok
+test_insumos_bajos_usa_umbral_de_la_sede (test_unidades.PruebasExtractMethod.test_insumos_bajos_usa_umbral_de_la_sede) ... ok
+test_producto_inexistente_no_vende (test_unidades.PruebasExtractMethod.test_producto_inexistente_no_vende) ... ok
+test_registrar_venta_calcula_y_guarda (test_unidades.PruebasExtractMethod.test_registrar_venta_calcula_y_guarda) ... ok
+test_descontar_lechona_en_kg (test_unidades.PruebasMoveMethod.test_descontar_lechona_en_kg) ... ok
+test_descontar_tamal_en_kg (test_unidades.PruebasMoveMethod.test_descontar_tamal_en_kg) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.201s
+
+OK

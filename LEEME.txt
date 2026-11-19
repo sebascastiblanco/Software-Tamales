@@ -1,0 +1,5 @@
+Tamales el Mana - Refactorizacion (Sprint de reconstruccion)
+legacy/          codigo original (antes), sede_norte y sede_sur
+refactorizado/   codigo unico (despues). Ejecutar:  python main.py norte   o   python main.py sur
+pruebas/         python -m unittest discover -s pruebas -v   (desde esta carpeta)
+evidencia_pruebas.txt  resultado de la ejecucion de las pruebas
